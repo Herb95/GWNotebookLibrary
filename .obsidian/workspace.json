@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "f2ee198a53a10499",
+    "type": "split",
+    "children": [
+      {
+        "id": "42cdf4b76057c780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31bf0343ddf3e671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Adb Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2167bbab1ab5190a",
+    "type": "split",
+    "children": [
+      {
+        "id": "492712b1bffa0c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04af996591487391",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98faef0a362bcb00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51d84797b55693db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c49acf8cca143d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "30015aaa57c5fcd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bfdbafe0f17c61a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/Adb Command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bacc79dbeff389b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/Adb Command.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f561043e13f23c6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "179447b578982d43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/Adb Command.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "31bf0343ddf3e671",
+  "lastOpenFiles": [
+    "Other/English/作文.md",
+    "Android/Adb Command.md",
+    "Shader/UnuseKeywordsAndProperticesCheckerEditor.md",
+    "README.md"
+  ]
+}
