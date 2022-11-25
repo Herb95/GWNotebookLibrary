@@ -15,3 +15,9 @@
 -  在Windows上筛选某个进程：`adb shell ps|findstr baidu`
 - 在手机上筛选某个进程：`adb shell ps baidu 或者 adb shell ps|findstr -i baidu`
 - android或者linux中的shell命令是grep：`adb shell ps|grepbaidu`
+
+
+
+### 指定设备安装apk
+
+adb -s 设备id install app-release.apk

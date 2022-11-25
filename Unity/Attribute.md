@@ -1,0 +1,2 @@
+# DisallowMultipleComponent
+DisallowMultipleComponent : 不允许多个相同的组件挂载在同一个 GameObject 上
