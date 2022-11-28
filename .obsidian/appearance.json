@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "cssTheme": "GitHub theme",
+  "translucency": true
 }
