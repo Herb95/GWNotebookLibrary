@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "661d2efe87b5d355",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -161,17 +150,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "661d2efe87b5d355",
+  "active": "b0f18740f35670a2",
   "lastOpenFiles": [
+    "IOS/闲杂.md",
+    "IOS/IOS SDK 接入.md",
     "Unity/Attribute.md",
     "Unity/Unity Exe 文件作用.md",
-    "IOS/IOS SDK 接入.md",
     "Unity/Unity Api.md",
     "Other/Rider Template.md",
     "2022-11-28.md",
     "Unity/Temp Unity Scripts.md",
     "Other/English/作文.md",
-    "README.md",
-    "Window/Command.md"
+    "README.md"
   ]
 }
