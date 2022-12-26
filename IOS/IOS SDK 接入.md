@@ -7,6 +7,8 @@ QQ文档:![](file:///C:\Users\Administrator\AppData\Roaming\Tencent\QQ\Temp\[5UQ
 Info.plist
 
 ```
+    <key>NSUserTrackingUsageDescription</key>
+    <string>是否允许我们的APP使用您的IDFA信息，以此来优化您的使用体验，定向提供服务</string>
     <key>LSApplicationQueriesSchemes</key>
     <array>
         <string>weixin</string>
