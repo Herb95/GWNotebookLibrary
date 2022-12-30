@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOS/SDK 相关命令.md",
+                "file": "Window/Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOS/SDK 相关命令.md",
+                "file": "Window/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOS/SDK 相关命令.md",
+                "file": "Window/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOS/SDK 相关命令.md"
+                "file": "Window/Command.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "5a6e972cbc3f609c",
   "lastOpenFiles": [
+    "IOS/SDK 相关命令.md",
     "IOS/IOS SDK 接入.md",
     "IOS/闲杂.md",
     "Unity/Attribute.md",
@@ -160,7 +161,6 @@
     "Other/Rider Template.md",
     "2022-11-28.md",
     "Unity/Temp Unity Scripts.md",
-    "Other/English/作文.md",
-    "README.md"
+    "Other/English/作文.md"
   ]
 }
