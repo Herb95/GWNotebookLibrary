@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfef2c17c1c3104a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -150,7 +161,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b0f18740f35670a2",
+  "active": "bfef2c17c1c3104a",
   "lastOpenFiles": [
     "IOS/闲杂.md",
     "IOS/IOS SDK 接入.md",
