@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOS/SDK 相关命令.md",
+                "file": "IOS/闲杂.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOS/SDK 相关命令.md",
+                "file": "IOS/闲杂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOS/SDK 相关命令.md",
+                "file": "IOS/闲杂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOS/SDK 相关命令.md"
+                "file": "IOS/闲杂.md"
               }
             }
           }
@@ -153,14 +153,14 @@
   "active": "5a6e972cbc3f609c",
   "lastOpenFiles": [
     "IOS/IOS SDK 接入.md",
+    "IOS/SDK 相关命令.md",
+    "Unity/Unity Exe 文件作用.md",
+    "README.md",
     "IOS/闲杂.md",
     "Window/Command.md",
-    "IOS/SDK 相关命令.md",
     "Unity/Attribute.md",
-    "Unity/Unity Exe 文件作用.md",
     "Unity/Unity Api.md",
     "Other/Rider Template.md",
-    "2022-11-28.md",
-    "Unity/Temp Unity Scripts.md"
+    "2022-11-28.md"
   ]
 }
